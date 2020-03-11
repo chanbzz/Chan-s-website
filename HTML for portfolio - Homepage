@@ -1,0 +1,31 @@
+<p><a href="#RequiredProjects">Skip to main content</a></p>
+<p><a href="#Mysites">Skip to My Sites</a></p>
+<h1><a name="WebPortfolio"/>Chan Boswell's Web Portfolio</h1>
+<h2>PGD100 - Coding from Scratch</h2>
+<h3><a href = "https://egcc.edu"> Eastern Gateway Community College</a></h3>
+<p><h4>4000 Sunset Blvd<br />
+Steubenville, OH 43952</h4></p>
+<p><h5><a href="mailto:cboswell0342@student.egcc.edu">cboswell0342@student.egcc.edu</a></h5></p>
+<p><h5><a href="mailto:JMustin@egcc.edu">Email My Instructor</h5></p>
+<h3><a name="RequiredProjects"/>Required Projects</h3>
+<ul>
+    <li><a href="unit3.htm">Unit 3: Formatting Web Pages with Style Sheets</a></li>
+    <li><a href="unit4.htm">Lesson 15: Web Graphics</a>
+    <p><p align="right"><a href="#evaluation">Return to Top</a></p>
+    <ul>
+        <li>Web Graphics</li>
+        <li>PNG vs. GIF vs. JPEG</li>
+        <li>Web photo album</li>
+    </ul>
+    </li>
+    <li><a href="unit5.htm">Unit 5: Overall Site Design and Management</a></li>  
+</ul>
+<h3><a name= "Mysites"/>My Sites</h3>
+<ol>
+    <li><a href= "file:///Users/boscarim/Workspace/lesson8/lessoneight.htm">Chan's Infinite Playlist</a></li>
+    <li>Second Website</li>
+    <li>Third Website</li>
+<p><a href="https://www.school-for-champions.com/web/html_hyperlinks.htm#.XkmUzRNKjVp"</a>Click here for a Link Resource Guide!</P>
+<p><a href="https://www.w3schools.com/html/default.asp"<a/>Click here for free HTML Tutorials!</p>
+<p><a href="#WebPortfolio">Back to the top</a></p>
+</ol>
